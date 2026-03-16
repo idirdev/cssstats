@@ -18,5 +18,9 @@
   },
   "bin": {
     "cssstats": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/cssstats",
+  "bugs": {
+    "url": "https://github.com/idirdev/cssstats/issues"
   }
 }
